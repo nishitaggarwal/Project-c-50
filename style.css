@@ -1,0 +1,44 @@
+h1{
+    color: yellowgreen;
+}
+
+
+.grid{
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content : space-between;
+
+}
+
+
+.grid2{
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content : space-evenly;
+
+}
+
+h2{
+    
+    text-align:center;
+    background-color : #06ff27
+        
+}
+
+        
+p{
+
+    text-align:center;
+    background-color : #F5F5F5
+    
+    }
+
+    
+body{
+
+    background-color : #F5DEB3
+    }
+    
+       
